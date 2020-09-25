@@ -8,7 +8,7 @@ export default function About() {
       <iframe src="https://frame-rpm.eu.newrelic.com/public/charts/2uWQc4lRabS" width="500" height="300" scrolling="no" frameborder="no"></iframe>
       <p>
       Apdex score:
-      <img src="https://chart-embed.service.eu.newrelic.com/herald/d8a6323c-2997-408a-b547-b955ef0a866e?height=400px&timepicker=true" alt="Apdex"></img>
+      <iframe src="https://chart-embed.service.eu.newrelic.com/herald/d8a6323c-2997-408a-b547-b955ef0a866e?height=400px&timepicker=true"></iframe>
       </p>
       <p>
       Throughput:
