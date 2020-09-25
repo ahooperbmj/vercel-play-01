@@ -12,11 +12,11 @@ export default function About() {
       </p>
       <p>
       Throughput:
-      <img src="https://chart-embed.service.eu.newrelic.com/herald/10a5a8ac-4f52-47b4-9a9d-8dec45f9f47c?height=400px&timepicker=true" alt="Throughput"></img>
+      <iframe src="https://chart-embed.service.eu.newrelic.com/herald/10a5a8ac-4f52-47b4-9a9d-8dec45f9f47c?height=400px&timepicker=true" width="500" height="300" scrolling="no" frameborder="no"></iframe>
       </p>
       <p>
       Top 5 Web Trans:
-      <img src="https://chart-embed.service.eu.newrelic.com/herald/3515f93a-af11-4fdc-bbb7-1235f4155706?height=400px&timepicker=true" alt="Top 5 Web Trans"></img>
+      <iframe src="https://chart-embed.service.eu.newrelic.com/herald/3515f93a-af11-4fdc-bbb7-1235f4155706?height=400px&timepicker=true" width="500" height="300" scrolling="no" frameborder="no"></iframe>
       </p>
     </div>
   )
