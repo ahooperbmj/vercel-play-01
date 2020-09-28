@@ -26,10 +26,7 @@ function Index() {
         </a>{' '}
       </h2>
       <p>
-        <a href="/api/date">
-          <code>api/date</code> for the Date API with Node.js (TypeScript)
-        </a>
-        .
+        NB. This cahnge made in staging branch..
       </p>
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
