@@ -26,7 +26,7 @@ function Index() {
         </a>{' '}
       </h2>
       <p>
-        NB. This cahnge made in staging branch..
+        NB. This change made in staging branch..
       </p>
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
